@@ -1,0 +1,17 @@
+{
+  "name": "challenges",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "mocha --watch --recursive",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha -- --recursive"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.4",
+    "mocha": "^3.0.1",
+    "sinon": "^1.17.5"
+  }
+}
