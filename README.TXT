@@ -3,6 +3,10 @@
 *
 * @returns a JSON object that looks something like this:
 *     { host: "cnn.com", port: "80", protocol: "http" }
+*
+* @author: john.david.aynedjian@gmail.com
+*          http://johndavidaynedjian.com
+*          http://github.com/johndavid5
 */
 function urlParse(url);
 
